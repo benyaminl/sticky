@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Notes
 Comment=Take notes and stay organized
-Exec=sticky
+Exec=env GTK_CSD=1 sticky
 Icon=sticky
 Terminal=false
 Type=Application
